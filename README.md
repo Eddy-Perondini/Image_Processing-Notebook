@@ -22,4 +22,5 @@ etc.
 # References
 
 [1] Quynhlecl. (2025). Lung cancer x-ray [Dataset]. Kaggle. https://www.kaggle.com/datasets/quynhlecl/lung-cancer-x-ray/data
+
 [2] Castleman, K. R. (1979). Digital image processing. Prentice Hall Professional Technical Reference.
