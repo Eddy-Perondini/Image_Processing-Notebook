@@ -1,2 +1,3 @@
 # Image_Processing-Notebook
-A notebook for image processing practice  
+
+This github was created solely for image processing practices and study. 
