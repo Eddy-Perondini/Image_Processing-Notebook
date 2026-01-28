@@ -8,14 +8,16 @@ All activities included in this image processing notebook, so far:
 - Histogram calculation;
 - Noise addition;
 - Clusterization process;
-- Binarization.
+- Binarization;
+- Quantitative metrics to evaluate images;
+- Noise filtering.
 
 Future proceedings: 
 
-- Quantitative metrics to evaluate images;
-- Noise filtering;
 - Object detection;
-- Object counting.
+- Object counting;
+- Segmantation;
+- Edge erosion.
 
 etc.  
 
